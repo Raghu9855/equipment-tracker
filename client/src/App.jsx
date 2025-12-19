@@ -80,9 +80,9 @@ function App() {
         {/* Simple header with a gradient text effect needed to make it pop */}
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem', marginBottom: '0.5rem' }}>
           <img src="/logo.svg" alt="Leucine Logo" style={{ width: '40px', height: '40px' }} />
-          <h1 style={{ fontSize: '2.5rem', marginBottom: 0 }} className="header-grad">Equipment Tracker</h1>
+          <h1 style={{ fontSize: '2.5rem', marginBottom: 0, color: 'white', textShadow: '0 2px 4px rgba(0,0,0,0.1)' }}>Equipment Tracker</h1>
         </div>
-        <p style={{ color: 'var(--text-secondary)' }}>Manage your pharmaceutical manufacturing equipment.</p>
+        <p style={{ color: '#e2e8f0', fontSize: '1.1rem' }}>Manage your pharmaceutical manufacturing equipment.</p>
       </header>
 
       {/* 

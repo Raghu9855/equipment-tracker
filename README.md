@@ -2,6 +2,9 @@
 
 A streamlined web application designed for managing pharmaceutical manufacturing equipment. This project demonstrates a full-stack implementation using **React**, **Node.js**, and **SQLite**.
 
+### 🚀 **Live Demo**: [https://equipment-tracker-omega.vercel.app](https://equipment-tracker-omega.vercel.app)
+
+
 ## Overview
 
 I built this application to provide a clean, responsive interface for tracking equipment status in a manufacturing environment. The focus was on creating a user-friendly experience with immediate visual feedback (like status badges) and robust data handling.
@@ -68,4 +71,4 @@ With more time, I would look to implement:
 -   **Real-time Updates**: WebSockets to reflect status changes immediately across multiple clients.
 
 ---
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by **Raghavendra K** - [GitHub](https://github.com/Raghu9855) - [LinkedIn](https://www.linkedin.com/in/raghk)*

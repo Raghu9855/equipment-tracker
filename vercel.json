@@ -23,6 +23,10 @@
             "destination": "/client/assets/$1"
         },
         {
+            "source": "/logo.svg",
+            "destination": "/client/logo.svg"
+        },
+        {
             "source": "/vite.svg",
             "destination": "/client/vite.svg"
         },
